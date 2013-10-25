@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: bsgaur
+Build-Jdk: 1.7.0_45
+Group-Id: org.sample.hudson
+Short-Name: mysample
+Long-Name: My New Plugin
+Url: http://hudson-ci.org/hudson-plugin-parent/mysample/
+Plugin-Version: 1.0-SNAPSHOT (private-10/25/2013 18:24-bsgaur)
+Hudson-Version: 3.0.0
+Plugin-Developers: 
+Libraries: C:\Users\bsgaur\Desktop\Prachi Project\Hudson plugin\mysamp
+ le\target\classes
+Resource-Path: C:\Users\bsgaur\Desktop\Prachi Project\Hudson plugin\my
+ sample\src\main\webapp
+
