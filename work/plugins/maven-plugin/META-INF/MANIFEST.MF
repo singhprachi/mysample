@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: wjprakash
+Build-Jdk: 1.7.0_21
+Extension-Name: maven-plugin
+Specification-Title: This plug-in is needed if you have legacy maven 2
+  job type.         Preferred way to use maven in Hudson is by using m
+ aven as a         builder in your Free Style job, which is provided b
+ y Maven 3 plugin.
+Specification-Vendor: Hudson
+Implementation-Vendor: Hudson
+Implementation-Title: maven-plugin
+Implementation-Version: 3.0.0
+Plugin-Class: hudson.maven.PluginImpl
+Group-Id: org.hudsonci.plugins
+Short-Name: maven-plugin
+Long-Name: Maven 2 job type Plugin
+Url: http://wiki.hudson-ci.org/display/HUDSON/Maven+2+Project+Plugin
+Plugin-Version: 3.0.0
+Hudson-Version: null
+Plugin-Developers: 
+

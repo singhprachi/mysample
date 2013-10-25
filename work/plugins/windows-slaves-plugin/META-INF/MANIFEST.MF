@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: wjprakash
+Build-Jdk: 1.6.0_41
+Group-Id: org.hudsonci.plugin
+Short-Name: windows-slaves-plugin
+Long-Name: Windows Slaves Plugin
+Url: http://hudson-ci.org/hudson-plugin-parent/windows-slaves-plugin/
+Plugin-Version: 1.0
+Hudson-Version: 3.0.0
+Plugin-Dependencies: jna-native-support-plugin:1.0.1
+Plugin-Developers: 
+

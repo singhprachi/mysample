@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: wjprakash
+Build-Jdk: 1.7.0_21
+Group-Id: org.hudsonci.plugins
+Short-Name: jfreechart-plugin
+Long-Name: JFreeChart  Plugin
+Url: https://wiki.hudson-ci.org/display/HUDSON/JFreeChart+Plugin
+Plugin-Version: 1.5
+Hudson-Version: 3.0.0
+Plugin-Developers: Winston Prakash:wjprakash:winston.prakash@gmail.com
+

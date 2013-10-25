@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: wjprakash
+Build-Jdk: 1.7.0_21
+Group-Id: org.hudsonci.plugins
+Short-Name: dashboard-view
+Long-Name: Dashboard View
+Url: http://wiki.hudson-ci.org/display/HUDSON/Dashboard+View
+Plugin-Version: 2.9.2-h-1
+Hudson-Version: 3.0.0
+Plugin-Dependencies: maven-plugin:2.2.1,jfreechart-plugin:1.4
+Plugin-Developers: Peter Hayes:petehayes:petehayes@gmail.com,Marco Amb
+ u:mambu:marco.ambu+jenkins@gmail.com
+

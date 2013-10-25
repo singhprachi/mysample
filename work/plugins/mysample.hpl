@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: bsgaur
+Build-Jdk: 1.7.0_45
+Group-Id: org.sample.hudson
+Short-Name: mysample
+Long-Name: My New Plugin
+Url: http://hudson-ci.org/hudson-plugin-parent/mysample/
+Plugin-Version: 1.0-SNAPSHOT (private-10/24/2013 19:59-bsgaur)
+Hudson-Version: 3.0.0
+Plugin-Developers: 
+Libraries: D:\Personal Data\Prachi Project Oracle Task\apache-maven-3.
+ 1.1-bin\apache-maven-3.1.1\bin\mysample\target\classes
+Resource-Path: D:\Personal Data\Prachi Project Oracle Task\apache-mave
+ n-3.1.1-bin\apache-maven-3.1.1\bin\mysample\src\main\webapp
+
