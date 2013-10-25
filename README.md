@@ -1,0 +1,4 @@
+mysample
+========
+
+My Sample Plugin
